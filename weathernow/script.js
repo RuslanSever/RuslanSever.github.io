@@ -1,4 +1,5 @@
 src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js";
+src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js";
 
   $.getJSON("http://ip-api.com/json/?callback=?", function(data) {
   var location = "";
